@@ -23,7 +23,7 @@ public class PhotoBrowse extends Activity {
 
     int[] imgs = new int[]{R.mipmap.aaa, R.mipmap.bbb, R.mipmap.ccc, R.mipmap.ddd, R.mipmap.ic_launcher, R.mipmap.image003};
 
-    GridView gv;
+    private GridView gv;
 
     View mParent;
     View mBg;
