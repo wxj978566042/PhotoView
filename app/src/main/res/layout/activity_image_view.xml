@@ -19,6 +19,6 @@
         android:layout_height="match_parent"
         android:scaleType="centerInside"
         android:src="@mipmap/aaa"
-        android:visibility="gone" />
+        android:visibility="visible" />
 
 </RelativeLayout>
